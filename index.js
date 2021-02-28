@@ -2,7 +2,7 @@ const test = "This is a test.";
 
 const moreTest = {
     text: test,
-    number: 0
+    number: 1
 };
 
 console.log("Testing with: ", moreTest);
