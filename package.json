@@ -1,0 +1,27 @@
+{
+  "name": "tarot-reader",
+  "version": "1.0.0",
+  "description": "A web app to help beginners with Tarot readings.",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irenadunjic/Tarot-Reader.git"
+  },
+  "author": "Irena Dunjic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irenadunjic/Tarot-Reader/issues"
+  },
+  "homepage": "https://github.com/irenadunjic/Tarot-Reader#readme"
+}
