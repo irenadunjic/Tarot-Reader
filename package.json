@@ -2,7 +2,7 @@
   "name": "tarot-reader",
   "version": "1.0.0",
   "description": "A web app to help beginners with Tarot readings.",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "express": "^4.17.1",
